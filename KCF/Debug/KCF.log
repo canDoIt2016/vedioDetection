@@ -1,0 +1,7 @@
+﻿  runtracker.cpp
+e:\车辆检测\code\kcf\runtracker.cpp(70): warning C4101: “xMin”: 未引用的局部变量
+e:\车辆检测\code\kcf\runtracker.cpp(70): warning C4101: “height”: 未引用的局部变量
+e:\车辆检测\code\kcf\runtracker.cpp(70): warning C4101: “width”: 未引用的局部变量
+e:\车辆检测\code\kcf\runtracker.cpp(59): warning C4101: “similar”: 未引用的局部变量
+e:\车辆检测\code\kcf\runtracker.cpp(70): warning C4101: “yMin”: 未引用的局部变量
+  KCF.vcxproj -> E:\车辆检测\code\ViBe\Debug\KCF.exe
