@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\车辆检测\code\vibe\vibe\main.cpp(95): warning C4018: “<”: 有符号/无符号不匹配
+e:\车辆检测\code\vibe\vibe\main.cpp(109): warning C4018: “<”: 有符号/无符号不匹配
+  ViBe.vcxproj -> E:\车辆检测\code\ViBe\Debug\ViBe.exe

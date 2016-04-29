@@ -1,0 +1,10 @@
+﻿  Vibe_M.cpp
+e:\车辆检测\code\test\vibe_m.cpp(11): error C2061: 语法错误: 标识符“cudaStream_t”
+e:\车辆检测\code\test\vibe_m.cpp(13): error C2061: 语法错误: 标识符“cudaStream_t”
+e:\车辆检测\code\test\vibe_m.cpp(61): error C2660: “cv::gpu::device::vibe_m::init_gpu”: 函数不接受 5 个参数
+e:\车辆检测\code\test\vibe_m.cpp(78): error C2027: 使用了未定义类型“cv::gpu::StreamAccessor”
+          d:\program files\opencv\opencv\build\include\opencv2\gpu\gpu.hpp(190) : 参见“cv::gpu::StreamAccessor”的声明
+e:\车辆检测\code\test\vibe_m.cpp(78): error C2660: “cv::gpu::device::vibe_m::update_gpu”: 函数不接受 6 个参数
+e:\车辆检测\code\test\vibe_m.cpp(78): error C3861: “getStream”:  找不到标识符
+  testjiaodian.cpp
+  正在生成代码...
